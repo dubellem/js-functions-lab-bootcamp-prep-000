@@ -18,10 +18,10 @@
 
 
 
-function happyHolidays() {
+function happyHolidays(string) {
     return "Happy holidays!"
 }
 
 function happyHolidaysto(name) {
-    console.log ("Happy holidays, ${name}!")
+    console.log (string, ${name}!")
 }
