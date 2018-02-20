@@ -19,6 +19,5 @@
 
 
 function happyHolidays(string) {
-  if (string === happyHolidays.string) {
-    return "Happy holidays!"
+  console.log("Happy holidays!")
 }
