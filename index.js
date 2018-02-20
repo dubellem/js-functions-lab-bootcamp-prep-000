@@ -21,3 +21,7 @@
 function happyHolidays() {
     return "Happy holidays!"
 }
+
+function happyHolidaysto(holiday, name) {
+    console.log ("Happy, ${name}!")
+}
