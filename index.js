@@ -18,7 +18,7 @@
 
 
 
-function happyHolidays(name) {
+function happyHolidays() {
     return "Happy holidays!"
 }
 
