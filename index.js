@@ -19,5 +19,6 @@
 
 
 function happyHolidays(string) {
-  return "Happy holidays!".string ()
+  if (string === happyHolidays.string) {
+    return Happy holidays!.string ()
 }
